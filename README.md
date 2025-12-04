@@ -7,42 +7,42 @@ Aplicación web interactiva desarrollada con Streamlit para realizar análisis e
 Ver aplicación desplegada [aquí](https://car-sales-app-wag5.onrender.com/)
 
 # 🛠️ Tecnologías Utilizadas
-• Python 3
-• Pandas
-• Streamlit
-• Plotly Express
+• Python 3<br>
+• Pandas<br>
+• Streamlit<br>
+• Plotly Express<br>
 
 # 📊 Funcionalidades
-• Histograma interactivo del kilometraje
-• Gráfico de dispersión entre precio y odómetro
-• Interfaz dinámica con checkboxes
-• Visualizaciones interactivas
+• Histograma interactivo del kilometraje<br>
+• Gráfico de dispersión entre precio y odómetro<br>
+• Interfaz dinámica con checkboxes<br>
+• Visualizaciones interactivas<br>
 
 # ⚙️ Instalación local
-git clone https://github.com/ADRIAN-NOVOA-MONZON/car-sales-app.git
-cd car-sales-app
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
+git clone https://github.com/ADRIAN-NOVOA-MONZON/car-sales-app.git <br>
+cd car-sales-app<br>
+python -m venv venv<br>
+venv\Scripts\activate<br>
+pip install -r requirements.txt<br>
 
 # ▶️ Ejecución
 streamlit run app.py
 
 # 🗃️ Dataset
-El archivo vehicles_us.csv contiene información de venta de autos, los cuales corresponden a lo siguiente:
-price – Precio del vehículo
-model_year – Año del modelo
-model – Modelo del vehículo
-condition – Condición del vehículo (nuevo, usado, excelente, etc.)
-cylinders – Número de cilindros
-fuel – Tipo de combustible
-odometer – Kilometraje del vehículo
-transmission – Tipo de transmisión (automática o manual)
-type – Tipo de vehículo (sedán, SUV, pickup, etc.)
-paint_color – Color del vehículo
-is_4wd – Indica si cuenta con tracción en las cuatro ruedas (4WD)
-date_posted – Fecha de publicación del vehículo
-days_listed – Días que el vehículo estuvo publicado
+El archivo vehicles_us.csv contiene información de venta de autos, los cuales corresponden a lo siguiente:<br>
+• price – Precio del vehículo<br>
+• model_year – Año del modelo<br>
+• model – Modelo del vehículo<br>
+• condition – Condición del vehículo (nuevo, usado, excelente, etc.)<br>
+• cylinders – Número de cilindros<br>
+• fuel – Tipo de combustible<br>
+• odometer – Kilometraje del vehículo<br>
+• transmission – Tipo de transmisión (automática o manual)<br>
+• type – Tipo de vehículo (sedán, SUV, pickup, etc.)<br>
+• paint_color – Color del vehículo<br>
+• is_4wd – Indica si cuenta con tracción en las cuatro ruedas (4WD)<br>
+• date_posted – Fecha de publicación del vehículo<br>
+• days_listed – Días que el vehículo estuvo publicado<br>
 
 # 👨‍💻 Autor
 Adrian Novoa Monzón
