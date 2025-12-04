@@ -3,29 +3,32 @@ Análisis Exploratorio de Datos – Ventas de Vehículos
 
 Aplicación web interactiva desarrollada con Streamlit para realizar análisis exploratorio de datos (EDA) sobre vehículos en venta. Permite analizar el comportamiento del kilometraje y su relación con el precio mediante visualizaciones dinámicas.
 
-🛠️ Tecnologías Utilizadas
+# 🌐 Aplicación Web en Vivo
+Ver aplicación desplegada [aquí](https://car-sales-app-wag5.onrender.com/)
+
+# 🛠️ Tecnologías Utilizadas
 • Python 3
 • Pandas
 • Streamlit
 • Plotly Express
 
-📊 Funcionalidades
+# 📊 Funcionalidades
 • Histograma interactivo del kilometraje
 • Gráfico de dispersión entre precio y odómetro
 • Interfaz dinámica con checkboxes
 • Visualizaciones interactivas
 
-⚙️ Instalación
+# ⚙️ Instalación local
 git clone https://github.com/ADRIAN-NOVOA-MONZON/car-sales-app.git
 cd car-sales-app
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 
-▶️ Ejecución
+# ▶️ Ejecución
 streamlit run app.py
 
-🗃️ Dataset
+# 🗃️ Dataset
 El archivo vehicles_us.csv contiene información de venta de autos, los cuales corresponden a lo siguiente:
 price – Precio del vehículo
 model_year – Año del modelo
@@ -41,6 +44,6 @@ is_4wd – Indica si cuenta con tracción en las cuatro ruedas (4WD)
 date_posted – Fecha de publicación del vehículo
 days_listed – Días que el vehículo estuvo publicado
 
-👨‍💻 Autor
+# 👨‍💻 Autor
 Adrian Novoa Monzón
 Data Analyst en Formación – TripleTen
