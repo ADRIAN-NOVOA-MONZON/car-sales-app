@@ -45,5 +45,5 @@ El archivo vehicles_us.csv contiene información de venta de autos, los cuales c
 • days_listed – Días que el vehículo estuvo publicado<br>
 
 # 👨‍💻 Autor
-Adrian Novoa Monzón
+Adrian Novoa Monzón<br>
 Data Analyst en Formación – TripleTen
