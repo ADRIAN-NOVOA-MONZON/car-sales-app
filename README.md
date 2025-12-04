@@ -7,7 +7,7 @@ Aplicación web interactiva desarrollada con Streamlit para realizar análisis e
 Ver aplicación desplegada [aquí](https://car-sales-app-wag5.onrender.com/)
 
 # 🛠️ Tecnologías Utilizadas
-• Python 3<br>
+• Python<br>
 • Pandas<br>
 • Streamlit<br>
 • Plotly Express<br>
